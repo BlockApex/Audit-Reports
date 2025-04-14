@@ -98,7 +98,7 @@ Below is the list of private audits in which BlockApex and its auditors collabor
 | Alethea AI - Backend  | Penetration Testing | Audit for AletheaAI, backend infrastructure.       | TS/JS           | Completed    | 2024-11     |
 | Alethea AI Launchpad  | Manual Code Review  | Audit for AletheaAI contracts on Solana.           | Solana (Rust)   | Completed    | 2024-11     |
 | Ritestream            | Manual Code Review  | Audit for Ritestream Adapter contracts.            | EVM (Solidity)  | Completed    | 2024-07     |
-| Tassests              | Manual Code Review  | Audit for Tassests EIP-7518.                       | EVM (Solidity)  | Completed    | 2024-05     |
+| Zoniqx                | Manual Code Review  | Audit for Tassests EIP-7518.                       | EVM (Solidity)  | Completed    | 2024-05     |
 | Data Mint             | Manual Code Review  | Audit for Data Mint Vault Contracts.               | EVM (Solidity)  | Completed    | 2024-06     |
 | Hund                  | Manual Code Review  | Audit for Hund, Memcoin project on solana.         | Solana (Rust)   | Completed    | 2024-05     |
 | Fuel Infrastructure   | Manual Code Review  | Comprehensive review of Fuel Sequencer audit.      | Cosmos (Go)     | Completed    | 2024        |
