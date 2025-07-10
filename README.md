@@ -166,4 +166,4 @@ If you need a security audit for your blockchain project, please get in touch:
  
 ✅ Your blockchain security is our top priority!
  
-📅 **Book a free security consultation:** [Schedule Here](https://calendly.com/blockapex-free-security-consultation/30min)
+📅 **Book a free security consultation:** [Schedule Here](https://calendly.com/blockapex_/discovery_session?month=2025-07)
