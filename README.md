@@ -45,9 +45,12 @@ Below is an overview of the public audits performed by BlockApex for a wide rang
 | LightLink - Luminary                       | Manual Code Review  | EVM (Solidity)                     | [View Report](./LightLink%20Luminary%20-%20Final_Audit%20Report.pdf)                      |
 | LightLink - Bridge                         | Manual Code Review  | EVM (Solidity)                     | [View Report](./Lightlink%20Bridge%20Final%20Audit.pdf)                                   |
 | LightLink                                  | Manual Code Review  | EVM (Solidity)                     | [View Report](./Lightlink%20Bridge%20WhiteBox%20Review%20.pdf)                            |
+| Max Dex                                    | Manual Code Review  | Movement (Move)                    | [View Report](./Max%20DEX%20Final%20Audit%20Report.pdf)  
 | MetaPool - StakedICP                       | Manual Code Review  | ICP (Motoko)                       | [View Report](./MetaPool%20StakedICP%20Final%20Audit%20Report.pdf)                        |
 | Mittaria - NFT Marketplace                 | Manual Code Review  | EVM (Solidity)                     | [View Report](./Mittaria%20NFT%20Marketplace%20Final%20Audit%20Report.pdf)                |
 | Mittaria Protocol                          | Manual Code Review  | EVM (Solidity)                     | [View Report](./Mittaria%20Protocol%20Final%20Audit%20Report.pdf)                         |
+| Nero Chain                                 | Manual Code Review  | EVM (Solidity)                     | [View Report](./NeroChain%20-%20Final%20Audit%20Report.pdf) 
+| Open Game Protocol = Staking               | Manual Code Review  | EVM (Solidity)                     | [View Report](./Open%20Game%20Staking%20-%20Final%20Audit%20Report.pdf)
 | Param Labs                                 | Penetration Testing | TS/JS                              | [View Report](./Param%20Labs%20Dapp%20PT%20Report.pdf)                                    |
 | Phase Protocol                             | Manual Code Review  | EVM (Solidity)                     | [View Report](./Phase%20Protocol%20Final%20Audit.pdf)                                     |
 | PhoenixDAO - Bridge                        | Manual Code Review  | EVM (Solidity)                     | [View Report](./PheonixDAO%20Bridge%20Contract%20Final%20Audit.pdf)                       |
